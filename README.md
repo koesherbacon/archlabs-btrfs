@@ -1,3 +1,5 @@
+## This is a walkthrough for creating btrfs subvolumes. It was originally a larger document detailing the installation of Arch Labs from formatting the hdd all the way up to verification, mounting and swapon. I'm only concerned about using Step 5's info for creating subvolumes via chrooting from another Arch or Manjaro liveUSB. 
+
 # archlabs-btrfs
 Install ArchLabs &lt;www.archlabslinux.com> 2018.03 with Btrfs filesystem.
 
